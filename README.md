@@ -7,6 +7,13 @@ My research interests cover phylogenomics, morphometrics, and integrative taxono
 
 I'm always happy to collaborate! 📫 Send me an email at either kevin.karbstein at uni-jena.de or k.karbstein at ufl.edu.
 
+
+Some of my recent projects:
+
+
+- [LazyModeler]([https://mywebsite.com](https://github.com/KK260/LazyModeler)): LazyModeler is a statistical package for the programming language R that allows for easy performance of regression modeling
+
+
 <!--
 **KK260/kk260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
