@@ -5,7 +5,7 @@ I previously worked and studied at the University of Göttingen, Technical Unive
 My research interests cover phylogenomics, morphometrics, and integrative taxonomy, 🌱 with a particular focus on polyploidy, hybridization, and asexuality in plants.
 🔭 Recently, I've been diving into pipeline programming and deep learning approaches. 
 
-I'm always happy to collaborate! 📫 Send me an email at either kevin.karbstein@uni-jena.de or k.karbstein@ufl.edu.
+I'm always happy to collaborate! 📫 Send me an email at either kevin.karbstein at uni-jena.de or k.karbstein at ufl.edu.
 
 <!--
 **KK260/kk260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
