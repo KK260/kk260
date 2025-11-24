@@ -15,7 +15,7 @@ Some of my recent projects:
 
 - [GenomeXtract](https://github.com/KK260/GenomeXtract): Automatically download, filter, and assemble genomes (or genes) from NCBI
 
-- [...]
+- and many more
 
 <!--
 **KK260/kk260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
